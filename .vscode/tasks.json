@@ -6,7 +6,7 @@
         {
             "label": "PUSH To Github Pages",
             "type": "shell",
-            "command": "git add --all; git commit -am 'Changed'; git push -u origin master;",
+            "command": "git add --all; git commit -am 'Changed'; git push origin master;",
             "problemMatcher": []
         }
     ]
